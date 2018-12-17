@@ -6,4 +6,3 @@ Raspberry Pi programming
 
 I want to make gifts of 
 Magic Mirrors
-
